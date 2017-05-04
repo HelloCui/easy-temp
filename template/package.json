@@ -1,7 +1,8 @@
 {
-  "name": "try",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "main": "index.js",
   "scripts": {
     "build": ".\\node_modules\\.bin\\webpack"
